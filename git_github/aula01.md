@@ -26,7 +26,7 @@
 - `git branch -D <branch>` → deleta branch
 
 ---
-📌 **Observações:**
+**Observações:**
 - Pastas iniciadas com `.` são ocultas.
 - `./` → diretório atual
 - `../` → diretório superior
