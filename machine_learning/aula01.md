@@ -49,16 +49,17 @@
 * Previsão de vendas
 * Tempo de garantia
 * Limite de crédito
-* Manutenção de equipamentos industriais
+* Manutenção de equipamento industrial
 * Recomendação de produtos
 * Definição de metas
-* Processamento de Linguagem Natural (PLN)
+* Processamento de Linguagem Natural
 * Conhecer diferentes grupos de clientes
 * Validar produtos com usuários
 * Entender sazonalidade
 * Visão computacional
-* Avaliar performance de atletas
-* Medir eficácia de vacinas e medicamentos
-* Apoiar na tomada de melhores decisões
+* Performance de atletas
+* Eficácia de vacinas e medicamentos
 
 ---
+
+
