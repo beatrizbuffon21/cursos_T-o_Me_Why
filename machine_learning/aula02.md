@@ -1,8 +1,7 @@
 # Machine Learning 
 
 ## Definição
-O **aprendizado automático** é um subcampo da Engenharia e da Ciência da Computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.  
-Em 1959, **Arthur Samuel** definiu aprendizado de máquina como o  
+O **aprendizado automático** é um subcampo da Engenharia e da Ciência da Computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial. Em 1959, **Arthur Samuel** definiu aprendizado de máquina como o  
 > "campo de estudo que dá aos computadores a habilidade de aprender sem serem explicitamente programados".  
 
 - [Fonte Britannica](https://www.britannica.com/technology/machine-learning)  
@@ -57,9 +56,9 @@ Os **algoritmos de ML** descobrem regras com base nesses exemplos. Eles só "con
   - Temperatura  
   - Tipo de copo  
   - Espuma  
-  - Cor  
-
-### Algoritmo: Árvore de Decisão 🌳
+  - Cor
+    
+### Algoritmo: Árvore de Decisão 
 - Funciona como uma sequência de **ifs**, mas gerada automaticamente.  
 - O algoritmo vai particionando os dados em "nós" cada vez mais **puros** (ou seja, onde só resta um tipo de resposta).  
 - Problema: se continuarmos dividindo até cada nó ter apenas **uma amostra**, caímos em **overfitting** (o modelo aprende demais os exemplos e não generaliza).  
