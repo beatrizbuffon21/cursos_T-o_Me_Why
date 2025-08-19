@@ -1,4 +1,4 @@
-# %% biblioteca
+# %% importando biblioteca
 import pandas as pd
 
 # %% carregando o arquivo com os dados das frutas
